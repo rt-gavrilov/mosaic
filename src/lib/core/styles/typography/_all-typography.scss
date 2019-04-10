@@ -47,7 +47,7 @@
     @include mc-modal-typography($config);
     @include mc-navbar-typography($config);
     @include mc-vertical-navbar-typography($config);
-    //@include mat-menu-typography($config);
+    @include mat-menu-typography($config);
     @include mc-option-typography($config);
     @include mc-sidepanel-typography($config);
     @include mc-tag-typography($config);
